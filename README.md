@@ -160,6 +160,4 @@ and experimenting with AI automation.
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7b2fff,50:00bfff,100:0d1117&height=120&section=footer" />
 
-![Visitor Count](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=00bfff&style=flat-square&label=Profile+Views)
-
 </div>
