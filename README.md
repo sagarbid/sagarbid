@@ -1,10 +1,8 @@
 <div align="center">
 
-<!-- Animated Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00bfff,100:7b2fff&height=200&section=header&text=Sagar%20Bidari&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Cybersecurity%20%7C%20Builder%20%7C%20Perpetual%20Learner&descAlignY=58&descSize=18" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:0a192f,100:0d1117&height=160&section=header&text=Sagar%20Bidari&fontSize=40&fontColor=e6f1ff&fontAlignY=40&fontFamily=Space+Grotesk&desc=Cybersecurity%20Professional%20%E2%80%94%20Melbourne%2C%20AU&descSize=14&descAlignY=62&descColor=8892b0" />
 
-<!-- Typing SVG -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00BFFF&center=true&vCenter=true&width=600&lines=CompTIA+Security%2B+Certified+%F0%9F%94%90;Aspiring+SOC+Analyst+%26+Blue+Teamer;Cybersecurity+Bootcamp+Graduate;Building+Secure+Systems+from+Melbourne%2C+AU+%F0%9F%87%A6%F0%9F%87%BA)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=400&size=18&duration=3000&pause=800&color=64FFDA&center=true&vCenter=true&width=600&lines=CompTIA+Security%2B+Certified+%F0%9F%94%90;Aspiring+SOC+Analyst+%26+Blue+Teamer;Monash+University+Cybersecurity+Bootcamp;Melbourne%2C+AU+%F0%9F%87%A6%F0%9F%87%BA)](https://git.io/typing-svg)
 
 </div>
 
@@ -12,8 +10,6 @@
 ---
 
 👾 About Me
-
-
 
 Hey! I'm **Sagar** — a cybersecurity professional based in **Melbourne, Australia 🇦🇺**, 
 transitioning career into the world of **threat detection, incident response, 
@@ -156,8 +152,4 @@ and experimenting with AI automation.
 
 ---
 
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7b2fff,50:00bfff,100:0d1117&height=120&section=footer" />
-
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:0a192f,100:0d1117&height=120&section=footer&text=Let%27s%20Connect&fontSize=22&fontColor=64ffda&fontAlignY=50&fontFamily=Space+Grotesk&desc=Open%20to%20Cybersecurity%20Roles%20%7C%20bidarisagar.com&descSize=12&descAlignY=72&descColor=8892b0" />
