@@ -8,11 +8,12 @@
 
 </div>
 
+"Security is not a product, but a process." — Bruce Schneier
 ---
 
-## 👾 About Me
+👾 About Me
 
-"Security is not a product, but a process." — Bruce Schneier
+
 
 Hey! I'm **Sagar** — a cybersecurity professional based in **Melbourne, Australia 🇦🇺**, 
 transitioning career into the world of **threat detection, incident response, 
@@ -81,14 +82,31 @@ and experimenting with AI automation.
 
 ---
 
-## 🚀 Featured Projects
+## 🛡️ Featured Cybersecurity Projects
+
+<div align="center">
+
+| Project | Description | Skills |
+|---|---|---|
+| 🔍 [**Automated Nmap Scanner**](https://github.com/sagarbid/YOUR_REPO) | Python CLI tool automating network recon — target scanning, open port identification & structured result export replicating a real pentest enumeration phase | `Python` `Nmap` `CLI` `File I/O` `Parsing` |
+| 📱 [**Mobile Device Forensics**](https://github.com/sagarbid/YOUR_REPO) | Forensic iPhone examination in a simulated theft & fraud case — recovered deleted messages, browser history & geolocation artifacts with full chain-of-custody documentation | `Mobile Forensics` `Artifact Analysis` `Timeline Reconstruction` `Digital Evidence` |
+| 🔓 [**Password Cracking with Hashcat**](https://github.com/sagarbid/password-cracking-hashcat) | Brute-force & dictionary attack automation via Python & Bash using Hashcat — presented findings at Monash Bootcamp final conference on weak password policy implications | `Hashcat` `Python` `Bash` `Brute Force` `Dictionary Attack` |
+| 🖥️ [**SOC Analysis — Virtual Space Industries**](https://github.com/sagarbid/YOUR_REPO) | Simulated SOC analyst role defending web & Windows servers under live attack — detected privilege escalations, service anomalies & produced MITRE ATT&CK-mapped IR documentation | `Splunk` `MITRE ATT&CK` `Incident Response` `Blue Team` `Windows/Linux Logs` |
+| 📊 [**Splunk SIEM — Vandalay Industries**](https://github.com/sagarbid/YOUR_REPO) | Detected DDoS, brute-force & vuln scan events across enterprise infra using Splunk — built custom dashboards, threshold alerts & correlated Nessus output with Apache logs | `Splunk Enterprise` `SIEM` `Log Correlation` `Nessus` `Threat Hunting` |
+
+</div>
+
+## 🧩 Other Projects & Experiments
+
+<div align="center">
 
 | Project | Description | Tech |
 |---|---|---|
-| 🔬 [**Home SOC Lab**](#) | Built a virtualised Blue Team lab with Windows, Ubuntu & Kali; configured SIEM log ingestion and alert rules | VirtualBox, Splunk, Sysmon |
-| 🕵️ [**CTF Write-ups**](#) | Documented TryHackMe & HTB challenge solutions with step-by-step methodology | Kali, Bash, Nmap |
-| 🤖 [**AI Telegram Bot**](#) | Automation bot powered by Together.ai API with custom prompt engineering | Python, Telegram API |
-| 🛒 [**Ecommerce Store**](#) | Built and launched a Shopify storefront with custom branding and Alibaba supplier chain | Shopify, DNS, Branding |
+| 🤖 [**AI Telegram Bot**](#) | Automation bot powered by Together.ai API with custom prompt engineering | `Python` `Telegram API` `Together.ai` |
+| 🛒 [**Ecommerce Store**](#) | Shopify storefront with custom branding, DNS config & Alibaba supplier chain | `Shopify` `DNS` `Branding` |
+| 🌐 [**Cybersecurity Portfolio Site**](#) | Personal portfolio blog documenting labs, CTF write-ups & security research | `HTML` `GitHub Pages` |
+
+</div>
 
 > 📌 *Pinned repos below — each includes a full write-up with methodology and screenshots.*
 
