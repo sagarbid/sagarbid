@@ -96,21 +96,43 @@ and experimenting with AI automation.
 
 ## 📊 GitHub Stats
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_USERNAME&theme=tokyonight" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=YOUR_USERNAME&theme=tokyonight" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=YOUR_USERNAME&theme=tokyonight&utcOffset=11" />
+<div align="center">
+
+<div align="center">
+
+<table border="0">
+  <tr>
+    <td width="12%" align="center" valign="middle">
+      <img src="https://media.giphy.com/media/077i6AULCXc0FKTj9s/giphy.gif" width="75px" alt="hacker"/>
+      <br/><sub>👾 SOC</sub>
+    </td>
+    <td align="center" valign="middle">
+      <img height="170em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&theme=tokyonight&hide_border=true&show_icons=true"/>
+      <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&theme=tokyonight&hide_border=true&layout=compact"/>
+      <br/>
+      <img width="70%" src="https://github-readme-streak-stats-eight.vercel.app?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+    </td>
+    <td width="12%" align="center" valign="middle">
+      <img src="https://media.giphy.com/media/077i6AULCXc0FKTj9s/giphy.gif" width="75px" alt="hacker"/>
+      <br/><sub>🔐 Sec+</sub>
+    </td>
+  </tr>
+</table>
+
+</div>
 
 
----
+</div>
+
 
 ## 🌐 Connect With Me
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://YOUR_PORTFOLIO_SITE)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sagarbidari)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sagarbid)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cybersecure@bidarisagar.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://www.bidarisagar.com)
 
 </div>
 
