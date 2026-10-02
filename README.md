@@ -2,42 +2,35 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:0a192f,100:0d1117&height=160&section=header&text=Sagar%20Bidari&fontSize=40&fontColor=e6f1ff&fontAlignY=40&fontFamily=Space+Grotesk&desc=Cybersecurity%20Professional%20%E2%80%94%20Melbourne%2C%20AU&descSize=14&descAlignY=62&descColor=8892b0" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=400&size=18&duration=3000&pause=800&color=64FFDA&center=true&vCenter=true&width=600&lines=CompTIA+Security%2B+Certified+%F0%9F%94%90;Aspiring+SOC+Analyst+%26+Blue+Teamer;Monash+University+Cybersecurity+Bootcamp;Melbourne%2C+AU+%F0%9F%87%A6%F0%9F%87%BA)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=400&size=18&duration=3000&pause=800&color=64FFDA&center=true&vCenter=true&width=600&lines=CompTIA+Security%2B+Certified+%F0%9F%94%90;SOC+Analyst+%26+Blue+Teamer;Attack-to-Detection+Homelab+Projects;Melbourne%2C+AU+%F0%9F%87%A6%F0%9F%87%BA)](https://git.io/typing-svg)
+
+*"Security is not a product, but a process."* — Bruce Schneier
 
 </div>
 
-"Security is not a product, but a process." — Bruce Schneier
 ---
 
-👾 About Me
+## 👾 About Me
 
-Hey! I'm **Sagar** — a cybersecurity professional based in **Melbourne, Australia 🇦🇺**, 
-transitioning career into the world of **threat detection, incident response, 
-and blue team operations**. I hold a **CompTIA Security+ CE** certification and completed the 
-**Monash University Cybersecurity Bootcamp** (in partnership with edX).
+Hey — I'm **Sagar**, a cybersecurity professional based in **Melbourne, Australia 🇦🇺**, transitioning into **threat detection, incident response, and blue team operations**. I hold **CompTIA Security+ CE** and completed the **Monash University Cybersecurity Bootcamp** (in partnership with edX).
 
-When I'm not spinning up virtual labs or hunting CTF flags, I'm building ecommerce ventures 
-and experimenting with AI automation.
+My homelab work follows one pattern: **attack something on purpose, then prove — with real telemetry — the difference between an attempt that failed and one that would have succeeded.** That's the thread running through the projects below.
 
-- 🔭 **Currently working on:** Cybersecurity portfolio labs (SIEM, EDR, log analysis)
-- 🌱 **Currently learning:** Splunk, Microsoft Sentinel, SOC workflows & MITRE ATT&CK
-- 🛡️ **Goal:** Land a SOC Analyst / Help Desk / Systems Administrator role
-- 🏃 **Outside the terminal:** Playing Cricket, AI, Crypto & gym (new hobby after trying to shred some fat off!!)
-- 💡 **Fun fact:** I pivoted from hospitality/care into cybersecurity — zero regrets.
+- 🔭 **Currently building:** full attack-and-detect labs (Wazuh, Splunk, Windows/Linux telemetry)
+- 🌱 **Currently learning:** Microsoft Sentinel, detection engineering, SOC workflows & MITRE ATT&CK
+- 🛡️ **Goal:** Land a SOC Analyst / Help Desk / Systems Administrator role in Melbourne
+- 🏃 **Outside the terminal:** Cricket, the gym, and more AI automation than is strictly necessary
+- 💡 **Background:** pivoted from hospitality/care into cybersecurity — zero regrets
 
 ---
 
 ## 🛡️ Certifications & Education
 
-<div align="center">
-
 | Credential | Issuer | Status |
 |---|---|---|
 | 🏅 CompTIA Security+ CE | CompTIA | ✅ Certified |
-| 🎓 Cybersecurity Bootcamp | Monash University × edX | ✅ Completed (2024) |
-| 📚 SOC Analyst Path | TryHackMe / HTB | 🔄 In Progress |
-
-</div>
+| 🎓 Cybersecurity Bootcamp | Monash University × edX | ✅ Completed |
+| 📚 SOC Analyst Path | TryHackMe / HTB | 🔄 In progress |
 
 ---
 
@@ -45,11 +38,12 @@ and experimenting with AI automation.
 
 <div align="center">
 
-**Security & Networking**
+**Security & Detection**
 
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 ![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
+![Wazuh](https://img.shields.io/badge/Wazuh-3253DC?style=for-the-badge&logo=wazuh&logoColor=white)
 ![Nmap](https://img.shields.io/badge/Nmap-214478?style=for-the-badge&logo=nmap&logoColor=white)
 ![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
 
@@ -58,13 +52,13 @@ and experimenting with AI automation.
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)
 ![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)
 
 **Scripting & Dev**
 
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
@@ -72,39 +66,32 @@ and experimenting with AI automation.
 
 ![MITRE ATT&CK](https://img.shields.io/badge/MITRE_ATT%26CK-FF0000?style=for-the-badge&logo=target&logoColor=white)
 ![NIST](https://img.shields.io/badge/NIST_CSF-003087?style=for-the-badge&logo=nist&logoColor=white)
-![ISO 27001](https://img.shields.io/badge/ISO_27001-0033A0?style=for-the-badge&logo=iso&logoColor=white)
+![Sigma](https://img.shields.io/badge/Sigma_Rules-2E8B57?style=for-the-badge&logo=yaml&logoColor=white)
 
 </div>
 
 ---
 
-## 🛡️ Featured Cybersecurity Projects
+## 🛡️ Featured Projects — Attack & Detect
 
-<div align="center">
+Each one follows the same contract: **real attack → real telemetry → real detection logic**, with screenshots and a documented limitations/lessons-learned section — not just a write-up of what was supposed to happen.
 
-| Project | Description | Skills |
+| Project | What it proves | Stack |
 |---|---|---|
-| 🔍 [**Automated Nmap Scanner**](https://github.com/sagarbid/YOUR_REPO) | Python CLI tool automating network recon — target scanning, open port identification & structured result export replicating a real pentest enumeration phase | `Python` `Nmap` `CLI` `File I/O` `Parsing` |
-| 📱 [**Mobile Device Forensics**](https://github.com/sagarbid/YOUR_REPO) | Forensic iPhone examination in a simulated theft & fraud case — recovered deleted messages, browser history & geolocation artifacts with full chain-of-custody documentation | `Mobile Forensics` `Artifact Analysis` `Timeline Reconstruction` `Digital Evidence` |
-| 🔓 [**Password Cracking with Hashcat**](https://github.com/sagarbid/password-cracking-hashcat) | Brute-force & dictionary attack automation via Python & Bash using Hashcat — presented findings at Monash Bootcamp final conference on weak password policy implications | `Hashcat` `Python` `Bash` `Brute Force` `Dictionary Attack` |
-| 🖥️ [**SOC Analysis — Virtual Space Industries**](https://github.com/sagarbid/YOUR_REPO) | Simulated SOC analyst role defending web & Windows servers under live attack — detected privilege escalations, service anomalies & produced MITRE ATT&CK-mapped IR documentation | `Splunk` `MITRE ATT&CK` `Incident Response` `Blue Team` `Windows/Linux Logs` |
-| 📊 [**Splunk SIEM — Vandalay Industries**](https://github.com/sagarbid/YOUR_REPO) | Detected DDoS, brute-force & vuln scan events across enterprise infra using Splunk — built custom dashboards, threshold alerts & correlated Nessus output with Apache logs | `Splunk Enterprise` `SIEM` `Log Correlation` `Nessus` `Threat Hunting` |
+| 🔑 [**RDP Brute-Force → Splunk Detection**](https://github.com/sagarbid/rdp-bruteforce-splunk-detection) | Ran a real Hydra brute-force against a Windows RDP target with two outcomes — one account locked out, one compromised — then built the Splunk SPL + Sigma detection logic to tell the difference, including fixing a correlation query that initially overstated what it proved | `Splunk` `Hydra` `Sigma` `MITRE ATT&CK` `Windows Event Logs` |
+| 🖥️ [**Wazuh SOC Homelab**](https://github.com/sagarbid/wazuh-homelab-soc) | Deployed a full Wazuh manager + agent stack across VMware, simulated port scans / SSH brute-force / file-integrity events, and documented every command with screenshots end-to-end | `Wazuh` `VMware` `Kali` `Ubuntu` `MITRE ATT&CK` |
+| 📊 [**Splunk SIEM — Vandalay Industries**](https://github.com/sagarbid/Splunk-SIEM-Monitoring-Vandalay-Industries) | Built Splunk dashboards and threshold alerts to detect DDoS, brute-force, and vulnerability-scan activity, correlating Nessus findings with Apache logs | `Splunk Enterprise` `SIEM` `Nessus` `Log Correlation` |
+| 🔓 [**Password Cracking with Hashcat**](https://github.com/sagarbid/Password-Cracking-Hashcat) | Benchmarked MD5/SHA-1/bcrypt crack rates with dictionary and brute-force attacks — presented at the Monash Bootcamp conference on weak-password-policy risk | `Hashcat` `Python` `Bash` |
+| 🔍 [**Automated Nmap Scanner**](https://github.com/sagarbid/Automated-Nmap-Network-Scanner) | Python CLI wrapping Nmap for structured network recon — target scanning, open-port ID, JSON/CSV export for downstream analysis | `Python` `Nmap` `CLI` |
+| 🧪 [**VirtualBox Cybersecurity Lab**](https://github.com/sagarbid/VirtualBox-Cybersecurity-Lab) | The underlying lab environment — Kali, Ubuntu, and Windows VMs networked together as the base every other project runs on | `VirtualBox` `Networking` `Linux/Windows` |
 
-</div>
+> 📌 Pin these six on the profile (Settings → “Customize your pins”) so they're what a recruiter sees first — not the automation/tooling repos.
 
-## 🧩 Other Projects & Experiments
-
-<div align="center">
-
-| Project | Description | Tech |
-|---|---|---|
-| 🤖 [**AI Telegram Bot**](#) | Automation bot powered by Together.ai API with custom prompt engineering | `Python` `Telegram API` `Together.ai` |
-| 🛒 [**Ecommerce Store**](#) | Shopify storefront with custom branding, DNS config & Alibaba supplier chain | `Shopify` `DNS` `Branding` |
-| 🌐 [**Cybersecurity Portfolio Site**](#) | Personal portfolio blog documenting labs, CTF write-ups & security research | `HTML` `GitHub Pages` |
-
-</div>
-
-> 📌 *Pinned repos below — each includes a full write-up with methodology and screenshots.*
+<!--
+⚠️ Need links or to drop — tell me which:
+- Mobile Device Forensics (simulated iPhone theft/fraud case)
+- SOC Analysis — Virtual Space Industries
+-->
 
 ---
 
@@ -112,32 +99,14 @@ and experimenting with AI automation.
 
 <div align="center">
 
-<div align="center">
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=sagarbid&theme=tokyonight&hide_border=true&show_icons=true&count_private=true"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sagarbid&theme=tokyonight&hide_border=true&layout=compact"/>
 
-<table border="0">
-  <tr>
-    <td width="12%" align="center" valign="middle">
-      <img src="https://media.giphy.com/media/077i6AULCXc0FKTj9s/giphy.gif" width="75px" alt="hacker"/>
-      <br/><sub>👾 SOC</sub>
-    </td>
-    <td align="center" valign="middle">
-      <img height="170em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&theme=tokyonight&hide_border=true&show_icons=true"/>
-      <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&theme=tokyonight&hide_border=true&layout=compact"/>
-      <br/>
-      <img width="70%" src="https://github-readme-streak-stats-eight.vercel.app?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
-    </td>
-    <td width="12%" align="center" valign="middle">
-      <img src="https://media.giphy.com/media/077i6AULCXc0FKTj9s/giphy.gif" width="75px" alt="hacker"/>
-      <br/><sub>🔐 Sec+</sub>
-    </td>
-  </tr>
-</table>
+<img width="70%" src="https://github-readme-streak-stats-eight.vercel.app?user=sagarbid&theme=tokyonight&hide_border=true"/>
 
 </div>
 
-
-</div>
-
+---
 
 ## 🌐 Connect With Me
 
