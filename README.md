@@ -38,29 +38,19 @@ My homelab work follows one pattern: **attack something on purpose, then prove â
 
 <div align="center">
 
-**Security & Detection**
+**OS, Virtualisation & Dev** *(Skill Icons)*
 
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+<img src="https://skillicons.dev/icons?i=kali,linux,ubuntu,windows,bash,python,git,github,markdown" alt="Kali Linux, Linux, Ubuntu, Windows, Bash, Python, Git, GitHub, Markdown" />
+
+**Security & Detection Tools**
+
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 ![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
 ![Wazuh](https://img.shields.io/badge/Wazuh-3253DC?style=for-the-badge&logo=wazuh&logoColor=white)
 ![Nmap](https://img.shields.io/badge/Nmap-214478?style=for-the-badge&logo=nmap&logoColor=white)
 ![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
-
-**Operating Systems & Virtualisation**
-
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)
 ![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)
-
-**Scripting & Dev**
-
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 **Frameworks & Standards**
 
@@ -69,6 +59,8 @@ My homelab work follows one pattern: **attack something on purpose, then prove â
 ![Sigma](https://img.shields.io/badge/Sigma_Rules-2E8B57?style=for-the-badge&logo=yaml&logoColor=white)
 
 </div>
+
+> Skill Icons' catalog is general-dev-focused (languages, OS, git tooling) and doesn't cover security-specific tools like Wireshark, Splunk, Wazuh, Nmap, or Metasploit â€” those stay as Shields.io badges since there's no equivalent icon available.
 
 ---
 
